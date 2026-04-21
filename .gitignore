@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 应用自动生成的文件
+file_hash_cache.db
+file_master_pro_config.json
+
+# py2app 构建产物
+build/
+dist/
+
+# 备份文件
+*.bak
